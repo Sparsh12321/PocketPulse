@@ -40,15 +40,6 @@
 | **Auth**      | Supabase Auth                                   |
 
 ---
-## Folder Structure
-PocketPulse/
-├── app/               # Next.js pages and routing
-├── components/        # Reusable UI components (ShadCN, Tailwind)
-├── prisma/            # Prisma schema and DB setup
-├── lib/               # Supabase and Gemini API helpers
-├── public/            # Static assets
-├── styles/            # Global styles
-└── .env.local         # Environment variables
 
 ## 📷 Screenshots
 
