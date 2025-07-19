@@ -1,7 +1,7 @@
 # 💸 PocketPulse – AI-Powered Expense Tracker
 
 **PocketPulse** is a modern, AI-driven expense tracker that helps you manage finances effortlessly. It combines clean UI, powerful analytics, OCR-based receipt scanning, and intelligent suggestions — all backed by a cutting-edge stack including **Next.js**, **Supabase**, and **Gemini API**.
-
+<img width="1803" height="905" alt="Screenshot 2025-07-15 232312" src="https://github.com/user-attachments/assets/e9276451-57d9-41b2-bd61-5b4e85d271f7" />
 ---
 
 ## 🚀 Features
@@ -52,7 +52,7 @@ PocketPulse/
 
 ## 📷 Screenshots
 
-<img width="1803" height="905" alt="Screenshot 2025-07-15 232312" src="https://github.com/user-attachments/assets/e9276451-57d9-41b2-bd61-5b4e85d271f7" />
+
 <img width="1520" height="912" alt="Screenshot 2025-07-19 224753" src="https://github.com/user-attachments/assets/b3e21106-e2b8-445c-a6e0-50ec071f0696" />
 <img width="1845" height="890" alt="Screenshot 2025-07-19 224903" src="https://github.com/user-attachments/assets/da37d5ff-c32b-44d1-bc7c-1c492c713197" />
 <img width="1505" height="787" alt="Screenshot 2025-07-19 224944" src="https://github.com/user-attachments/assets/3b2f3204-6c06-48e1-91bf-309a2b4eae4a" />
